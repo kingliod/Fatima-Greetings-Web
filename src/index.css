@@ -278,9 +278,12 @@ ul {
   display: flex;
   gap: 1rem;
 }
+a {
+  color: black; /* Replace with your desired link color */
+}
 
 .link {
-  color: var(--grey-500);
+  color: black;
 }
 
 .active {
