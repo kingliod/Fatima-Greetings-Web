@@ -117,7 +117,7 @@ function ResponsiveAppBar() {
           </Box>
 
           <Typography
-            variant="h5"
+            variant="h6"
             noWrap
             component="a"
             href=""
@@ -138,7 +138,7 @@ function ResponsiveAppBar() {
                   xs: "flex",
                   md: "none",
 
-                  height: "35px",
+                  height: "30px",
                 },
                 ml: 0,
                 mr: 1,
